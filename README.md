@@ -1,4 +1,4 @@
-<h1 align="center"> Focus Timer </h1>
+<h1 align="center"> Focus Timer AVANÇADO</h1>
 
 <p align="center">
   <img alt="imagem" src=./assets/focusTimer.png>
