@@ -21,7 +21,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/skFqRG8iWtSjh6RFwVzIZd/Focus-Timer-V2-%E2%80%A2-Projeto-Explorer-(Community)?type=design&node-id=1422-28&mode=design&t=9FbaeRDuhDlxvpiz-0) É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/xDYXxmMyX5SgsHAnxYvJiZ/Stage-05---Focus-Timer-2.0-(Copy)?type=design&node-id=0-1&mode=design&t=Ykz0xKcoE14hVOee-0) É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## : Licença
 
