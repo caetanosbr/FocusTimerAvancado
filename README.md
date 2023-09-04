@@ -1,7 +1,7 @@
 <h1 align="center"> Focus Timer - Avançado </h1>
 
 <p align="center">
-  <img alt="imagem" src=./assets/focusTimer.png>
+  <img alt="imagem" src=./assets/focusTimerAvancado.png>
 </p>
 
 ---
